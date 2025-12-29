@@ -1,5 +1,5 @@
 - 👋 Hi, I’m nd and since all the names are taken -> @grrrrrrh
-- 📫 nd@artistengineering.org
+- 📫 mail@artistengineering.org
   
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/ee95a294-6c7b-44af-801c-be81cc01f814/thumbnail" >
